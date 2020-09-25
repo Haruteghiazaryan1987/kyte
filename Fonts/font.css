@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "AvenirNext-Bold";
+    src: url('AvenirNext-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato-Black";
+    src: url('Lato-Black.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "LatoLight";
+    src: url('LatoLight.ttf');
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: "LatoRegular";
+    src: url('LatoRegular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
