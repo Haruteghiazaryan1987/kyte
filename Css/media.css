@@ -1,0 +1,75 @@
+
+/* ////////// md /////////*/
+
+@media screen and (max-width: 768px){
+    .I_m_Kyte_Brooten {
+        font-size: 40px;
+    }
+    .Frelance_Photographer {
+        font-size: 25px;
+    }
+    .padding_top_bottom_200px{
+        padding: 100px 0;
+    }
+    .a_little_About_me {
+        font-size: 15px;
+    }
+    .What_ı_Do {
+        font-size: 12px;
+    }
+    .img_in_portfolio{
+        min-height: 300px; 
+    }
+    .image_width{
+        max-width: 250px;
+        height: auto;
+    }
+    .text_box{
+        min-height:unset;
+    }
+}
+
+/* ////////// sm /////////*/
+
+@media screen and (max-width: 576px){
+    .I_m_Kyte_Brooten {
+        font-size: 25px;
+    }
+    .Frelance_Photographer {
+        font-size: 15px;
+    }
+    .padding_top_bottom_200px{
+        padding: 50px 0;
+    }
+    .w_h_50px{
+        width: 30px;
+        height: 30px;
+    }
+    .icon_in_sec1{
+        font-size: 16px;
+        color: white;
+    }
+    .Vestibulum_ligut{
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .Praesent_commodo {
+        font-size: 10px;
+        line-height: 1.2;
+    }
+    .Conceptual {
+        font-size: 13px;
+    }
+    .Praesent_commodo_cursus{
+        font-size: 12px;
+    }
+    .Moonshine_Street{
+        font-size: 12px;
+    }
+    .all_rights_reserved {
+        font-size: 12px;
+    }
+    .data_p {
+        font-size: 11px;
+    }
+}

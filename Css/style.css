@@ -1,0 +1,178 @@
+@import "../Font/font.css";
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(217, 217, 217);;
+}
+li{
+    list-style: none;
+}
+.kyte{
+    font-size: 25px;
+    font-family: "Avenir Next";
+    color: rgb(202, 202, 202);
+    font-weight: bold;
+}
+.style_menu_text{
+    font-size: 13px;
+    font-family: "Lato";
+    color: #c9c9c9;
+    text-align: right;
+}
+.style_menu_text:hover{
+    color: #1abbc9;
+}
+.I_m_Kyte_Brooten {
+    font-size: 80px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.Frelance_Photographer {
+    font-size: 50px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.icon_in_sec1{
+    font-size: 35px;
+    color: white;
+}
+.bg_color_black_transparence{
+    background-color: rgba(0,0,0,.5);
+}
+.w_h_50px{
+    width: 50px;
+    height: 50px;
+}
+.padding_top_bottom_200px{
+    padding: 200px 0;
+}
+.a_little_About_me {
+    font-size: 25px;
+    font-family: "Lato";
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 2.6;
+    margin-top: 8px;
+}
+.Vestibulum_ligut{
+    font-size: 18px;
+    font-family: "Lato";
+    font-weight: lighter;
+    color: rgb(72, 72, 72);
+    line-height: 1.591;
+}
+.Praesent_commodo {
+    font-size: 14px;
+    font-family: "Lato";
+    font-weight: lighter;
+    color: rgb(101, 101, 101);
+    line-height: 2.2;
+    text-align: center;
+}
+.text_box{
+    min-height: 340px;
+} 
+.What_ı_Do {
+    font-size: 16px;
+    font-family: "Lato";
+    color: rgb(72, 72, 72);
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: center;
+}
+.Conceptual {
+    font-size: 16px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: center;
+}
+.Praesent_commodo_cursus{
+    font-size: 15px;
+    font-family: "Lato";
+    color: rgb(210, 210, 210);
+    text-align: center;
+}
+.scrolling-wrapper{
+	overflow-x: auto;
+}          
+.img_in_portfolio{
+    min-height: 600px; 
+    width:auto;
+}
+.data_p {
+    font-size: 13px;
+    font-family: "Lato";
+    color: rgb(159, 159, 159);
+    text-transform: uppercase;
+    margin: 15px 0;
+}
+.Tortor_Ullamcorper {
+    font-size: 16px;
+    font-family: "Lato";
+    font-weight: bold;
+    color: rgb(92, 92, 92);
+    text-transform: uppercase;
+    text-align: center;
+}
+.Donec_id_elit {
+    font-size: 15px;
+    font-family: "Lato";
+    color: rgb(101, 101, 101);
+    text-align: center;
+}
+.bg_grey{
+    background-color: #f0f0f0;
+}
+.input_style{
+    width: 100%;
+    height: 50px;
+    background-color: rgba(120,120,120,.5);
+    border-radius: unset;
+    border: unset;
+}
+::-webkit-input-placeholder,
+.input_text_form{
+    font-size: 12px;
+    font-family: "Lato";
+    font-weight: bold;
+    color: rgb(181, 181, 181);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+input_text_form_whitw{
+    color: white;
+}
+.Contact_Details {
+    font-size: 16px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: center;
+} 
+.Fusce_dapibus{
+    font-size: 15px;
+    font-family: "Lato";
+    color: rgb(217, 217, 217);
+    line-height: 2;
+    text-align: center;
+}  
+.Moonshine_Street{
+    font-size: 15px;
+    font-family: "Lato";
+    color: rgb(217, 217, 217);
+    line-height: 1.8;
+}
+.all_rights_reserved {
+    font-size: 15px;
+    font-family: "Lato";
+    color: rgb(101, 101, 101);
+    line-height: 1;
+    text-align: center;
+}
